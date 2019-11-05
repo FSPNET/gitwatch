@@ -9,10 +9,12 @@ FSP Network Gen2 Server Infrastructure - Gitwatch
 ## Supported tags
 
 - [`edge` (Dockerfile)](https://github.com/FSPNET/gitwatch/blob/master/Dockerfile)
+- [`latest`, `0.0.1`(Dockerfile)](https://github.com/FSPNET/gitwatch/tree/0.0.1/Dockerfile)
 
 ## Supported Package Registry
 
 - [Docker.io](https://hub.docker.com/r/fspnetwork/gitwatch/)
+- [GitHub Package Registry](https://github.com/FSPNET/gitwatch/packages/49650)
 
 ## Environment variables
 
